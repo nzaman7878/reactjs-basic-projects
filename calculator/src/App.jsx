@@ -1,9 +1,9 @@
-
+import Calculator from './componets/calculator'
 
 function App() {
   return (
     <div className="App">
-    hello
+    <Calculator />
     </div>
   );
 }
